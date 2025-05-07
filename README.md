@@ -92,9 +92,9 @@
 
 ## Contact
 
-Yan-Ying Liao - [Personal Portfolio](Link) - my mail
+Nabin Adhikari - [Personal Portfolio](Link) - my mail
 
 Project Link: [https://github.com/Nabin2060/portfolio-nabin]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-<p align="left">(<a href="https://github.com/noworneverev/react-vscode-portfolio">I have taken inspiration from the Link to create my portfolio.) [https://github.com/noworneverev/react-vscode-portfolio]
+<p align="left">(<a href="https://github.com/noworneverev/react-vscode-portfolio">I have created this portfolio by taking inspiration from the "react-vscode-portfolio" project.</a>)</p>
